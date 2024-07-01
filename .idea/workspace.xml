@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e35e8ef-eecf-42c7-a9c2-4e054fb20c71" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conta/util/Cores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conta/Model/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conta/Model/ContaPoupanca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conta/util/Cores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conta/util/Cores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contabancaria/ContaBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contabancaria/TestaConta.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +61,7 @@
     "Application.Menu.executor": "Run",
     "Application.TestaConta.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/giova/IdeaProjects/ContaBancaria/src/Main.java",
@@ -133,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719800161545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-">
+      <option name="closed" value="true" />
+      <created>1719807544264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719807544264</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
